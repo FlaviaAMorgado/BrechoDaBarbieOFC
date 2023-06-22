@@ -10,7 +10,9 @@ Na tela "Doar" é onde é abordado os tópicos ditos à cima, assim conscientiza
 Na tela "Login" é onde o usuário poderá se logar no app e após se logar ele será direcionado a tela de perfil, caso o usuário não tenha um login ele poderá se cadastrar apertando no botão "cadastrar-se" que irá direciona-lo a tela "Cadastro".
 Na tela "Cadastro" é onde o usuário poderá se cadastrar no app e após se logar ele será direcionado a tela de perfil.
 Na tela "perfil" é onde o usuário consegue ter acesso aos seus dados e ver seus possívies cupons de desconto, ele consegue ter caesso clicando no botão "descontos".
-Na tela "Descontos" é onde é exibido os cupons de descontos do usuários, os que ele tem acesso e os ele não tem.
+Na tela "Descontos" é onde é exibido os cupons de descontos do usuários, os que ele tem acesso e os não.
+
+É necessário o conectar com banco de dados, fazer um sistema e adicionar mais funções. Nós tentamos colocar a função de mandar e receber dados pelo Intent mas não conseguimos. Os códigos precisavam de uma lógica, a qual não conseguimos compreender mesmo buscando por fora (internet, videos e documentações), então não foi possível adicionar essas funções porém ela já está nos nosso planos para fazer as melhorias e incrementação do nosso aplicativo expositivo sobre a sustentabilidade.
 
 
 
